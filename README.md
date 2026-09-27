@@ -15,6 +15,18 @@
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/home_screen.jpg" width="250" alt="Home Screen"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/presets_screen.jpg" width="250" alt="Presets Screen"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/settings_screen.jpg" width="250" alt="Settings Screen"/>
+</p>
+
+---
+
 ## ✨ Features
 
 | Feature | Description |
@@ -38,7 +50,7 @@
 - Works on most Android devices
 
 ### Installation
-1. Download the latest APK from [Releases](https://github.com/DOTSRIVAL/DPISwitcher/releases)
+1. Download the latest APK from [Releases](https://github.com/uniqueappsorg/DPI-CHANGER/releases)
 2. Install the APK
 3. Open the app and grant Root or Shizuku permission
 4. Set your desired SmallestWidth value and tap **Apply**
@@ -94,8 +106,8 @@ The app saves your **physical density** at first launch so it can always revert 
 
 ```bash
 # Clone the repo
-git clone https://github.com/DOTSRIVAL/DPISwitcher.git
-cd DPISwitcher
+git clone https://github.com/uniqueappsorg/DPI-CHANGER.git
+cd DPI-CHANGER
 
 # Build debug APK
 ./gradlew assembleDebug
@@ -149,10 +161,10 @@ Distributed under the MIT License.
 
 ## 👤 Developer
 
-**DOTSRIVAL**
+**Unique Apps**
 
-[![GitHub](https://img.shields.io/badge/GitHub-DOTSRIVAL-181717?style=for-the-badge&logo=github)](https://github.com/DOTSRIVAL)
+[![GitHub](https://img.shields.io/badge/GitHub-uniqueappsorg-181717?style=for-the-badge&logo=github)](https://github.com/uniqueappsorg)
 
 ---
 
-<p align="center">Made with 💜 for the Android community</p>
+<p align="center">Made with 💜 for the Android community by <strong>Unique Apps</strong></p>

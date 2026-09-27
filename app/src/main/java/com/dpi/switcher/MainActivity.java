@@ -1178,7 +1178,7 @@ public class MainActivity extends Activity {
         githubCard.setOnClickListener(v -> {
             try {
                 android.content.Intent intent = new android.content.Intent(android.content.Intent.ACTION_VIEW);
-                intent.setData(android.net.Uri.parse("https://github.com/DOTSRIVAL/DPISwitcher"));
+                intent.setData(android.net.Uri.parse("https://github.com/uniqueappsorg/DPI-CHANGER"));
                 startActivity(intent);
             } catch (Exception e) {
                 showInAppToast("Could not open browser", true);
@@ -1194,7 +1194,7 @@ public class MainActivity extends Activity {
         rootLayout.addView(spacer, new LinearLayout.LayoutParams(0, 0, 1f));
 
         TextView devText = new TextView(this);
-        devText.setText("DEVELOPED BY DOTSRIVAL");
+        devText.setText("DEVELOPED BY UNIQUE APPS");
         devText.setTextColor(getColor(R.color.accent_purple));
         devText.setTextSize(13f);
         devText.setTypeface(android.graphics.Typeface.DEFAULT_BOLD);

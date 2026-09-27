@@ -69,7 +69,7 @@ public class SplashActivity extends Activity {
         layout.addView(appName);
         
         TextView devText = new TextView(this);
-        devText.setText("DEVELOPED BY DOTSRIVAL");
+        devText.setText("DEVELOPED BY UNIQUE APPS");
         devText.setTextColor(Color.parseColor("#BB86FC"));
         devText.setTextSize(14f);
         devText.setTypeface(android.graphics.Typeface.DEFAULT_BOLD);
