@@ -18,11 +18,13 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home_screen.jpg" width="250" alt="Home Screen"/>
+  <img src="screenshots/permission.jpg" width="220" alt="Permission Screen"/>
   &nbsp;&nbsp;
-  <img src="screenshots/presets_screen.jpg" width="250" alt="Presets Screen"/>
+  <img src="screenshots/home.jpg" width="220" alt="Home Screen"/>
   &nbsp;&nbsp;
-  <img src="screenshots/settings_screen.jpg" width="250" alt="Settings Screen"/>
+  <img src="screenshots/presets.jpg" width="220" alt="Presets Screen"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/about.jpg" width="220" alt="About Screen"/>
 </p>
 
 ---
