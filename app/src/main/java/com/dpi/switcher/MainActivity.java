@@ -1178,7 +1178,7 @@ public class MainActivity extends Activity {
         githubCard.setOnClickListener(v -> {
             try {
                 android.content.Intent intent = new android.content.Intent(android.content.Intent.ACTION_VIEW);
-                intent.setData(android.net.Uri.parse("https://github.com/uniqueappsorg/DPI-CHANGER"));
+                intent.setData(android.net.Uri.parse("https://github.com/uniqueappsorg/DPI-SWITCHER"));
                 startActivity(intent);
             } catch (Exception e) {
                 showInAppToast("Could not open browser", true);

@@ -50,7 +50,7 @@
 - Works on most Android devices
 
 ### Installation
-1. Download the latest APK from [Releases](https://github.com/uniqueappsorg/DPI-CHANGER/releases)
+1. Download the latest APK from [Releases](https://github.com/uniqueappsorg/DPI-SWITCHER/releases)
 2. Install the APK
 3. Open the app and grant Root or Shizuku permission
 4. Set your desired SmallestWidth value and tap **Apply**
@@ -106,8 +106,8 @@ The app saves your **physical density** at first launch so it can always revert 
 
 ```bash
 # Clone the repo
-git clone https://github.com/uniqueappsorg/DPI-CHANGER.git
-cd DPI-CHANGER
+git clone https://github.com/uniqueappsorg/DPI-SWITCHER.git
+cd DPI-SWITCHER
 
 # Build debug APK
 ./gradlew assembleDebug
