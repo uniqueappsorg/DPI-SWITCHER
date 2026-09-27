@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Root-Supported-FF6B6B?style=for-the-badge&logo=superuser&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shizuku-Supported-A855F7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Version-1.3-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Version-1.0-0EA5E9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge"/>
 </p>
 
